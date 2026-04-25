@@ -1,0 +1,32 @@
+h1 {
+    color: midnightblue;
+}
+
+h2 {
+    color: midnightblue;
+}
+
+a {
+    color: green;
+}
+
+p {
+    color: #6eb86f;
+}
+
+li {
+        background-color: rgb(115, 211, 255);
+        border: 1px solid;
+        border-color: rgb(1, 1, 71);
+    }
+
+table {
+        background-color: orangered;
+        border: 5px solid;
+        border-color: darkred
+    }
+
+td {
+        border: 3px solid;
+        border-color: black;
+    }
